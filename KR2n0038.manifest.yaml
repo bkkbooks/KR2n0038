@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2n0038/v1
 canonical_location: https://kanripo.org/bkk/KR2n0038/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 石經考
   date: '2015-08-24 22:55:12.386902'
@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2n0038_000.yaml, hash: 'sha256:0e8d6a8e1194c01ad4a78555ffde1e0ed43eb247d148bacea15a87f6967f48cd'}
-  - {seq: 1, filename: KR2n0038_001.yaml, hash: 'sha256:22243f873fe2e93fef01e18228286dc2305fbec318287f1491e1494f19ab12d0'}
+  - {seq: 0, filename: KR2n0038_000.yaml, hash: 'sha256:c8758f637bbfbb928a6f3ade15755012435208372acc9549c0883c128c881298'}
+  - {seq: 1, filename: KR2n0038_001.yaml, hash: 'sha256:d929292262f14f5c4b5b78ee0828ab68943602cf2082bc4bd18e34c25623a189'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0038_000.markers.yaml, hash: 'sha256:a9e6cf0666a01afd2ab2c78494a9958d74eabdfce80fad37cb20055efc74cd34'}
-  - {seq: 1, role: markers, filename: assets/KR2n0038_001.markers.yaml, hash: 'sha256:bb2fcec2df30c21043423fa73d479a08d1d392645e9b4d64e1232db2ac05b65c'}
+  - {seq: 0, role: markers, filename: assets/KR2n0038_000.markers.yaml, hash: 'sha256:edc1f7cfbd05c6fe8e1fa47c32f3900fda4706d97a68016f6f4e19f5a27c9e08'}
+  - {seq: 1, role: markers, filename: assets/KR2n0038_001.markers.yaml, hash: 'sha256:fb2d0386f939b5010d7e66e23d86fbfe35e083c197d15b0e8a2dd51a16a77d49'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: 石經考
   type: section
   level: 1
-hash: sha256:47cd51f910d6fa60b48614b2dc71ec8ac02016ccc33da4d16e591b8aaa5c6133
+hash: sha256:da0e215ee44c34c3e8a21ca3969ee3cb6d915a123db1c47bd38beb24680af703
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
