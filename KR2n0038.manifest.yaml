@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2n0038_000.yaml, hash: 'sha256:c8758f637bbfbb928a6f3ade15755012435208372acc9549c0883c128c881298'}
   - {seq: 1, filename: KR2n0038_001.yaml, hash: 'sha256:d929292262f14f5c4b5b78ee0828ab68943602cf2082bc4bd18e34c25623a189'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2n0038_000.markers.yaml, hash: 'sha256:edc1f7cfbd05c6fe8e1fa47c32f3900fda4706d97a68016f6f4e19f5a27c9e08'}
-  - {seq: 1, role: markers, filename: assets/KR2n0038_001.markers.yaml, hash: 'sha256:fb2d0386f939b5010d7e66e23d86fbfe35e083c197d15b0e8a2dd51a16a77d49'}
+  - {seq: 0, role: markers, filename: assets/KR2n0038_000.markers.yaml, hash: 'sha256:989da91229a8aabe67f9e92061f1d10e108f161c7f86e8aed35e68b60d382850'}
+  - {seq: 1, role: markers, filename: assets/KR2n0038_001.markers.yaml, hash: 'sha256:70c0e6d0ffb987b49f4c467772bf392ed72fd8f9f4114c367455f65c6284bd85'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 石經考
   type: section
   level: 1
-hash: sha256:da0e215ee44c34c3e8a21ca3969ee3cb6d915a123db1c47bd38beb24680af703
+hash: sha256:1beb9c9c3d3d7b87e48d03cb346c836f38d47a47fc592a66c25b68609c68ccfa
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
